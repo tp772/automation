@@ -3,7 +3,6 @@
 A comprehensive Python application that automates the job search and application process by scraping job listings from multiple job boards and submitting applications automatically.
 
 ## Features
-
 - **Job Scraping**: Scrape job listings from Indeed and Glassdoor
 - **Smart Filtering**: Filter jobs based on keywords, location, salary, and company preferences
 - **Automated Applications**: Submit job applications automatically with customized resumes

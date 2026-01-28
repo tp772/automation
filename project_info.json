@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "name": "Job Automation",
+  "description": "Automated job application tool for efficient job searching",
+  "author": "Job Automation Team",
+  "python_version": "3.8+",
+  "dependencies": {
+    "beautifulsoup4": "HTML parsing library",
+    "selenium": "Browser automation",
+    "requests": "HTTP client library",
+    "python-docx": "Word document handling"
+  },
+  "features": [
+    "Job scraping from Indeed and Glassdoor",
+    "Automated job applications",
+    "Resume customization",
+    "Job filtering",
+    "Application tracking",
+    "Statistics and reporting",
+    "Logging and monitoring"
+  ],
+  "usage": "python main.py [--config CONFIG] [--no-apply] [--max-apply N] [--test]"
+}

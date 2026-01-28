@@ -1,0 +1,51 @@
+"""
+Job Automation - Sample Resume Template
+Edit this file with your actual information
+"""
+
+PROFESSIONAL SUMMARY
+====================
+Experienced software engineer with strong background in Python, REST APIs, 
+and full-stack development. Seeking opportunities to leverage expertise in 
+building scalable applications and solving complex technical challenges.
+
+
+TECHNICAL SKILLS
+===============
+Languages: Python, JavaScript, Java, SQL
+Frameworks: Django, Flask, FastAPI, React, Node.js
+Databases: PostgreSQL, MongoDB, SQLite, MySQL
+Tools: Git, Docker, Kubernetes, AWS, Azure
+Methodologies: Agile, Scrum, REST APIs, Microservices
+
+
+PROFESSIONAL EXPERIENCE
+=======================
+Senior Software Engineer | [JOB_TITLE] at [COMPANY]
+Current Location: [LOCATION]
+
+• Led development of scalable microservices architecture
+• Implemented REST APIs serving 100K+ daily requests
+• Mentored junior developers and reviewed code
+• Optimized database queries improving performance by 40%
+• Deployed applications to AWS and managed cloud infrastructure
+
+
+EDUCATION
+=========
+Bachelor of Science in Computer Science
+University Name
+Graduation: 20XX
+
+
+CERTIFICATIONS
+=============
+• AWS Solutions Architect Associate
+• Python Professional Certification
+
+
+PROJECTS
+========
+• Job Application Automation Tool - Python, Selenium, SQLite
+• E-commerce Platform - Django, React, PostgreSQL
+• Real-time Analytics Dashboard - Node.js, MongoDB

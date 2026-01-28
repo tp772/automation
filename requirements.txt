@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.2
+selenium==4.15.2
+requests==2.31.0
+python-docx==0.8.11
+pyinstaller==5.13.0

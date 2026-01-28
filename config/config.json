@@ -1,0 +1,63 @@
+{
+  "job_search": {
+    "keywords": [
+      "python developer",
+      "software engineer",
+      "data scientist",
+      "backend developer"
+    ],
+    "locations": [
+      "Remote",
+      "New York, NY",
+      "San Francisco, CA",
+      "Seattle, WA"
+    ],
+    "job_sources": [
+      "indeed",
+      "glassdoor"
+    ],
+    "pages_to_scrape": 5
+  },
+  "application_settings": {
+    "auto_apply": true,
+    "max_applications_per_day": 20,
+    "delay_between_applications": 3,
+    "apply_to_all_matching": false,
+    "minimum_match_score": 0.6
+  },
+  "resume": {
+    "base_resume_path": "resumes/resume.docx",
+    "customize_for_job": true,
+    "create_versions": true
+  },
+  "filters": {
+    "exclude_keywords": [
+      "contract",
+      "temporary",
+      "freelance",
+      "intern"
+    ],
+    "required_keywords": [
+      "python",
+      "rest api"
+    ],
+    "min_salary": 80000,
+    "exclude_companies": [
+      "Company X",
+      "Company Y"
+    ]
+  },
+  "database": {
+    "type": "sqlite",
+    "path": "data/jobs.db"
+  },
+  "logging": {
+    "level": "INFO",
+    "log_file": "logs/automation.log"
+  },
+  "user": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "phone": "Your Phone Number"
+  }
+}
